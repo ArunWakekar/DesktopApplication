@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\DesktopApplication_Testing\ESS_tracker\ESS_tracker\obj\Debug\net6.0\ESS_tracker.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DesktopApplication_Testing\ESS_tracker\ESS_tracker\obj\Debug\net6.0\ESS_tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DesktopApplication_Testing\ESS_tracker\ESS_tracker\obj\Debug\net6.0\ESS_tracker.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DesktopApplication_Testing\ESS_tracker\ESS_tracker\obj\Debug\net6.0\ESS_tracker.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DesktopApplication_Testing\ESS_tracker\ESS_tracker\obj\Debug\net6.0\ESS_tracker.csproj.CoreCompileInputs.cache
